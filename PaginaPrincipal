@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Computadoras</title>
+</head>
+    <p align="center"><font color="#000000" size="15">COMPUTADORAS</font></p>
+	<hr color="#4C81F2" size="7">
+<body bgcolor="#8CD6F7">
+	<nav><h2> <p align="center"><font face"Student Smart" size="+5">Partes fundamentales de una computadora</font></p>
+			<font face"Student Smart" size="4"><p align="center"><a href="C:\Users\boos4\OneDrive\Desktop\Cuarentena-5\Programacion\Practica7\Microprocesadores.html">Microporcesador</a>| <a href="C:\Users\boos4\OneDrive\Desktop\Cuarentena-5\Programacion\Practica7\Motherboard.html">MotherBoard</a> |<a href="C:\Users\boos4\OneDrive\Desktop\Cuarentena-5\Programacion\Practica7\TargetaGrafica.html">Targeta grafica</a></p></h2> </nav> </font>
+    <hr color="#4C81F2" size="3">
+	<main>
+		<section>
+			<article>
+			<font color="#000000"size="6" face="Student Smart"><p align="justify">A grandes rasgos una computadora se encuentra compuesta por el monitor, el teclado, el mouse, la torre (donde se encuentra el disco duro y los demás componentes del hardware) y la impresora, y cada uno cumple una función particular. Por otro lado, este aparato se encuentra preparado para realizar dos funciones principalmente: responder a un sistema particular de comandos de una forma rápida y ejecutar programas, los cuales consisten en una serie de instrucciones grabadas con antelación.</font></p>
+            <br>
+			</article>
+        <center><img src="C:\Users\boos4\OneDrive\Desktop\Cuarentena-5\Programacion\Practica7\PC1.png"></center>
+			<article>
+			<p><font face="Student Smart" size="6" color="#0F143A"> 
+                El software de una computadora es uno de los elementos fundamentales para su funcionamiento, su sistema operativo, qie consiste en una gran plataforma donde pueden ejecutarse los programas, aplicaciones o herramientas que sirven para realizar diferentes tareas.
+                </font></p>
+                <p><font face="Student Smart" size="6" color="#0F143A"> 
+                El hardware por su parte, se encuentra formado por la memoria(permite almacenar datos y programas), dispositivos de entrada (para introducir los datos en el ordenador, ej: mouse y teclado), dispositivos de salida (para visualizar los datos, ej: pantalla o impresora) y CPU (cerebro del ordenador donde se ejecutan las instrucciones. La sigla es la forma en inglés de Unidad Central de Proceso.
+                </font></p>
+                <p><font face="Student Smart" size="6" color="#0F143A"> 
+                Las primeras computadoras aparecieron a mediados del siglo pasado, desde entonces no han dejado de fabricarse, creciendo a pasos agigantados. Pese a ello la mayoría de las computadoras de hoy en día todavía respeta la arquitectura Eckert-Mauchly, publicada por John von Neumann y creada por John Presper Eckert y John William Mauchly.   
+                </font></p>
+			</article>
+        
+        <br>
+			<p align="center">INFROMACIÓN</p>
+		</section>
+		<aside>
+			<p align="center"><a href="renovables.pdf" target=_blank >DESCARGA ARCHIVO
+</a></p>
+		<p align="center"><font face="Arial" color="#000000" > <a href="https://previa.uclm.es/area/egi/OFITEC/Descarga/COMPUTADOR.PDF"> "Computadoras"</a></font></p>
+		</aside>
+        <aside>
+		<p align="center"><font face="Arial" color="#000000"> <a href="https://concepto.de/computadora/"> "MAS INFORMACION"</a></p></font>
+		</aside> 
+	</main>
+	<footer><font face="Arial" color="#9753B5">
+	&copy; <p align="center"> <a href="mailto:giovaneitor42@gmail.com"> GIOVANNI MORALES LOPEZ </a> 
+	</font></footer></p>
+</body>
+</html>
